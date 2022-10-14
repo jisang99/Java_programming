@@ -1,6 +1,6 @@
 package programmingPack;
 
-//클래스
+// 클래스
 class Triangle {
 
 	private double width, height;
